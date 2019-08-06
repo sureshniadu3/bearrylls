@@ -1,0 +1,5 @@
+SNO,Private Ip,instance_arch,instance_type
+1,10.0.0.225,x86_64,t2.micro
+1,172.31.86.228,x86_64,t2.micro
+1,10.0.1.232,x86_64,t2.micro
+1,10.0.2.253,x86_64,t2.micro
